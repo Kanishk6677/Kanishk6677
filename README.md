@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kanishk Raj. I love to solve Data Structures and Algorithm Problem. I am React Developer and Founder of Treadaa(FineTech Startup)
+- 👋 Hi, I’m Kanishk Raj. I love to solve Data Structures and Algorithm Problem. I am React Developer and Right Now I am SDE Intern at Principal Global Services.
 - 👀 I’m interested in Enhanching coding Skills.
 - 🌱 I’m currently learning Backend Technologies Like NodeJS,Api and much more intrestings stuffs.
 - 💞️ I’m looking to collaborate on Open Source JavaScript projects.
